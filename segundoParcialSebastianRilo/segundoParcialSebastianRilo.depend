@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1542931115 source:/home/alumno/Escritorio/segundoParcialSebastianRilo/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542928092 /home/alumno/Escritorio/segundoParcialSebastianRilo/LinkedList.h
+
+1542931425 source:/home/alumno/Escritorio/segundoParcialSebastianRilo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"producto.h"
+
+1542931284 source:/home/alumno/Escritorio/segundoParcialSebastianRilo/producto.c
+	"producto.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542931373 /home/alumno/Escritorio/segundoParcialSebastianRilo/producto.h
+
+1542930641 source:/home/alumno/Escritorio/segundoParcialSebastianRilo/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"producto.h"
+
+1542931260 /home/alumno/Escritorio/segundoParcialSebastianRilo/utn.h
+
+1542927265 source:/home/alumno/Escritorio/segundoParcialSebastianRilo/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1542930810 source:/home/alumno/Escritorio/segundoParcialSebastianRilo/controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"controller.h"
+	"utn.h"
+	"LinkedList.h"
+	"producto.h"
+	"informe.h"
+
+1542930838 /home/alumno/Escritorio/segundoParcialSebastianRilo/parser.h
+	"LinkedList.h"
+
+1542931363 /home/alumno/Escritorio/segundoParcialSebastianRilo/controller.h
+	"LinkedList.h"
+
+1542931669 source:/home/alumno/Escritorio/segundoParcialSebastianRilo/informe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"producto.h"
+
+1542931610 /home/alumno/Escritorio/segundoParcialSebastianRilo/informe.h
+

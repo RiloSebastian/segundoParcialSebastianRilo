@@ -1,0 +1,7 @@
+*******************************************************
+                 INFORME DE VENTAS
+*******************************************************
+ cantidad de unidades vendidas totales: 1181
+ cantidad de ventas por un monto mayor a $10000: 37
+ cantidad de de ventas por un monto menor a $20000: 215
+ cantidad de lcd vendidas: 36
