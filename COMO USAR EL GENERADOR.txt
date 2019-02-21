@@ -1,0 +1,26 @@
+Para usar el generador de getters y setters se tiene que usar la terminal de linux o la de windows. 
+se tiene que crear unicamente un archivo '.h' con la estructura que vamos a utilizar en el formato 
+
+typedef struct
+{
+	int ...;
+	char ...;
+	float ...;
+}nombreDeEstructura;
+
+(hacer la estructura en este formato es importante porque el generador lee el archivo y reconoce solo este formato de 
+ texto como una estructura y produce los getters y setters segun el tipo de dato que usemos en las variable dentro de esta.
+ hacerlo de otra forma va a provocar un error y no va a terminar haciendo nada)
+
+Colocar el generador en la misma carpeta en la que se encuentra el '.h' y en la terminal escribir "./generadorSettersGetters
+(revisar con la tecla del tab si te autocompleta el nombre del ejecutable. si no lo hacer revisar que este habilitado ejecutar 
+ estos tipos de archivos en la carpeta (en algunos laboratorios de la facultad esta opcion esta deshabilitada). 
+
+si todo anda bien tiene que aparecer un texto que pide "ingresar el nombre del archivo sin extension:" 
+al ingresarlo se tiene que crear un '.c' con los getters y setters de las variables de la estructura y el '.h' se deberia actualizar,
+ahora con las el prototipo de las funciones. 
+
+(es Importante tener en cuenta de que si queres que te genere setters y setters de un Id el generador te lo va a hacer pero de una
+forma diferente, haciendo que actue como un contador, aunque parece algo bueno muchas veces puede hacer que tu programa haga cosas mal,
+por lo que es recomendable que no llames a tu variable solamente "id" porque el generador reconoce esta palabra y hace lo anteriormente dicho)
+
