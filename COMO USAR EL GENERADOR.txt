@@ -3,9 +3,9 @@ se tiene que crear unicamente un archivo '.h' con la estructura que vamos a util
 
 typedef struct
 {
-	int ...;
-	char ...;
-	float ...;
+  int ...;
+  char ...;
+  float ...;
 }nombreDeEstructura;
 
 (hacer la estructura en este formato es importante porque el generador lee el archivo y reconoce solo este formato de 
@@ -20,7 +20,6 @@ si todo anda bien tiene que aparecer un texto que pide "ingresar el nombre del a
 al ingresarlo se tiene que crear un '.c' con los getters y setters de las variables de la estructura y el '.h' se deberia actualizar,
 ahora con las el prototipo de las funciones. 
 
-(es Importante tener en cuenta de que si queres que te genere setters y setters de un Id el generador te lo va a hacer pero de una
-forma diferente, haciendo que actue como un contador, aunque parece algo bueno muchas veces puede hacer que tu programa haga cosas mal,
+(es Importante tener en cuenta de que si queres que te genere setters y setters de un Id el generador te lo va a hacer pero de una forma diferente, haciendo que actue como un contador, aunque parece algo bueno muchas veces puede hacer que tu programa haga cosas mal,
 por lo que es recomendable que no llames a tu variable solamente "id" porque el generador reconoce esta palabra y hace lo anteriormente dicho)
 
