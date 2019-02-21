@@ -1,0 +1,8 @@
+hay un catalogo de compra con productos, su id, precio, fecha de producto, cuit del cliente, la cantidad vendida y su precio unitario. cargar los archivos y generar un infrome en un '.txt' indicando:
+
+ cantidad de unidades vendidas totales: 
+ cantidad de ventas por un monto mayor a $10000: 
+ cantidad de de ventas por un monto menor a $20000: 
+ cantidad de lcd vendidas: 
+
+se deben utilizar las debidas bibliotecas y la linked list junto con las funciones ll_map ll_filter y ll_count que actuara como un contador

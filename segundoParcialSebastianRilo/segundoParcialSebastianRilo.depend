@@ -65,3 +65,69 @@
 
 1542931610 /home/alumno/Escritorio/segundoParcialSebastianRilo/informe.h
 
+1550781310 source:/home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"controller.h"
+	"utn.h"
+	"LinkedList.h"
+	"producto.h"
+	"informe.h"
+
+1550781310 /home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/parser.h
+	"LinkedList.h"
+
+1550781310 /home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/LinkedList.h
+
+1550781310 /home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/controller.h
+	"LinkedList.h"
+
+1550781310 /home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/utn.h
+
+1550781310 /home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/producto.h
+
+1550781310 /home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/informe.h
+
+1550781310 source:/home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/informe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"producto.h"
+
+1550781310 source:/home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1550781310 source:/home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"producto.h"
+
+1550781310 source:/home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"producto.h"
+
+1550781310 source:/home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/producto.c
+	"producto.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1550781310 source:/home/seba18/Desktop/FACULTAD/segundoParcialSebastianRilo/segundoParcialSebastianRilo/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
